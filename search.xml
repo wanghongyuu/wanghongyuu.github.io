@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>前端技术的学习</title>
+      <title>前端技术</title>
       <link href="/posts/6b185cce.html"/>
       <url>/posts/6b185cce.html</url>
       
-        <content type="html"><![CDATA[<p>关于前端</p>]]></content>
+        <content type="html"><![CDATA[<p>关于前端  我想说的是 机械性工作偏高 </p>]]></content>
       
       
       
@@ -23,17 +23,36 @@
     
     
     <entry>
-      <title>前端技术学习</title>
+      <title>后端技术</title>
       <link href="/posts/5938ac41.html"/>
       <url>/posts/5938ac41.html</url>
       
-        <content type="html"><![CDATA[<p>这边写一写关于前端技术的东西</p>]]></content>
+        <content type="html"><![CDATA[<p>这边写一写关于后端技术的东西</p>]]></content>
       
       
       
         <tags>
             
             <tag> 技术 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于github提交后贡献图不变的问题</title>
+      <link href="/posts/6e952047.html"/>
+      <url>/posts/6e952047.html</url>
+      
+        <content type="html"><![CDATA[<p>正在处理中</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 报错 </tag>
             
         </tags>
       
