@@ -3,11 +3,11 @@
   <title>小y&#39;blog</title>
   
   <subtitle>悟已往之不谏，知来者之可追</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://wanghongyuu-github-io.vercel.app/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-10-19T07:07:37.879Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://wanghongyuu-github-io.vercel.app/"/>
+  <updated>2022-10-19T07:14:01.946Z</updated>
+  <id>https://wanghongyuu-github-io.vercel.app/</id>
   
   <author>
     <name>Hongyu Wang</name>
@@ -17,55 +17,9 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>前端技术</title>
-    <link href="http://example.com/posts/6b185cce.html"/>
-    <id>http://example.com/posts/6b185cce.html</id>
-    <published>2022-10-19T06:30:37.000Z</published>
-    <updated>2022-10-19T07:07:37.879Z</updated>
-    
-    <content type="html"><![CDATA[<p>关于前端  我想说的是 机械性工作偏高 </p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;关于前端  我想说的是 机械性工作偏高 &lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="技术" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>后端技术</title>
-    <link href="http://example.com/posts/5938ac41.html"/>
-    <id>http://example.com/posts/5938ac41.html</id>
-    <published>2022-10-19T06:30:37.000Z</published>
-    <updated>2022-10-19T06:51:37.936Z</updated>
-    
-    <content type="html"><![CDATA[<p>这边写一写关于后端技术的东西</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;这边写一写关于后端技术的东西&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="技术" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
     <title>关于github提交后贡献图不变的问题</title>
-    <link href="http://example.com/posts/6e952047.html"/>
-    <id>http://example.com/posts/6e952047.html</id>
+    <link href="https://wanghongyuu-github-io.vercel.app/posts/6e952047.html"/>
+    <id>https://wanghongyuu-github-io.vercel.app/posts/6e952047.html</id>
     <published>2022-10-19T06:30:37.000Z</published>
     <updated>2022-10-19T07:14:01.946Z</updated>
     
@@ -81,14 +35,60 @@
     
     
     
-    <category term="报错" scheme="http://example.com/tags/%E6%8A%A5%E9%94%99/"/>
+    <category term="报错" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%A5%E9%94%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端技术</title>
+    <link href="https://wanghongyuu-github-io.vercel.app/posts/6b185cce.html"/>
+    <id>https://wanghongyuu-github-io.vercel.app/posts/6b185cce.html</id>
+    <published>2022-10-19T06:30:37.000Z</published>
+    <updated>2022-10-19T07:07:37.879Z</updated>
+    
+    <content type="html"><![CDATA[<p>关于前端  我想说的是 机械性工作偏高 </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;关于前端  我想说的是 机械性工作偏高 &lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="技术" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>后端技术</title>
+    <link href="https://wanghongyuu-github-io.vercel.app/posts/5938ac41.html"/>
+    <id>https://wanghongyuu-github-io.vercel.app/posts/5938ac41.html</id>
+    <published>2022-10-19T06:30:37.000Z</published>
+    <updated>2022-10-19T06:51:37.936Z</updated>
+    
+    <content type="html"><![CDATA[<p>这边写一写关于后端技术的东西</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这边写一写关于后端技术的东西&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="技术" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
   <entry>
     <title>悟已往之不谏，知来者之可追</title>
-    <link href="http://example.com/posts/0.html"/>
-    <id>http://example.com/posts/0.html</id>
+    <link href="https://wanghongyuu-github-io.vercel.app/posts/0.html"/>
+    <id>https://wanghongyuu-github-io.vercel.app/posts/0.html</id>
     <published>2022-10-18T01:42:15.095Z</published>
     <updated>2022-10-18T07:23:24.827Z</updated>
     
@@ -106,14 +106,14 @@
     
     
     
-    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://wanghongyuu-github-io.vercel.app/posts/4a17b156.html"/>
+    <id>https://wanghongyuu-github-io.vercel.app/posts/4a17b156.html</id>
     <published>2022-10-17T01:51:50.147Z</published>
     <updated>2022-10-17T05:51:47.328Z</updated>
     

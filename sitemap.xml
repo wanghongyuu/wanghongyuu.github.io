@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/6e952047.html</loc>
+    <loc>https://wanghongyuu-github-io.vercel.app/posts/6e952047.html</loc>
     
     <lastmod>2022-10-19</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/6b185cce.html</loc>
+    <loc>https://wanghongyuu-github-io.vercel.app/posts/6b185cce.html</loc>
     
     <lastmod>2022-10-19</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/5938ac41.html</loc>
+    <loc>https://wanghongyuu-github-io.vercel.app/posts/5938ac41.html</loc>
     
     <lastmod>2022-10-19</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/0.html</loc>
+    <loc>https://wanghongyuu-github-io.vercel.app/posts/0.html</loc>
     
     <lastmod>2022-10-18</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://wanghongyuu-github-io.vercel.app/manifest.json</loc>
     
     <lastmod>2022-10-17</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/4a17b156.html</loc>
+    <loc>https://wanghongyuu-github-io.vercel.app/posts/4a17b156.html</loc>
     
     <lastmod>2022-10-17</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://wanghongyuu-github-io.vercel.app/</loc>
     <lastmod>2022-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,21 +65,21 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%A5%E9%94%99/</loc>
     <lastmod>2022-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%8A%A5%E9%94%99/</loc>
+    <loc>https://wanghongyuu-github-io.vercel.app/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2022-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2022-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
