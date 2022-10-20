@@ -6,7 +6,7 @@
   <link href="https://wanghongyuu-github-io.vercel.app/atom.xml" rel="self"/>
   
   <link href="https://wanghongyuu-github-io.vercel.app/"/>
-  <updated>2022-10-20T06:52:20.198Z</updated>
+  <updated>2022-10-20T06:52:05.008Z</updated>
   <id>https://wanghongyuu-github-io.vercel.app/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于github提交后贡献图不变的问题</title>
+    <link href="https://wanghongyuu-github-io.vercel.app/posts/6e952047.html"/>
+    <id>https://wanghongyuu-github-io.vercel.app/posts/6e952047.html</id>
+    <published>2022-10-19T06:30:37.000Z</published>
+    <updated>2022-10-20T06:52:05.008Z</updated>
+    
+    <content type="html"><![CDATA[<p>正在处理中</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;正在处理中&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="报错" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%A5%E9%94%99/"/>
+    
+  </entry>
   
   <entry>
     <title>前端技术</title>
@@ -59,29 +82,6 @@
     
     
     <category term="技术" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于github提交后贡献图不变的问题</title>
-    <link href="https://wanghongyuu-github-io.vercel.app/posts/6e952047.html"/>
-    <id>https://wanghongyuu-github-io.vercel.app/posts/6e952047.html</id>
-    <published>2022-10-19T06:30:37.000Z</published>
-    <updated>2022-10-20T06:52:05.008Z</updated>
-    
-    <content type="html"><![CDATA[<p>正在处理中</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;正在处理中&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="报错" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%A5%E9%94%99/"/>
     
   </entry>
   
