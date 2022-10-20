@@ -6,7 +6,7 @@
   <link href="https://wanghongyuu-github-io.vercel.app/atom.xml" rel="self"/>
   
   <link href="https://wanghongyuu-github-io.vercel.app/"/>
-  <updated>2022-10-20T06:52:20.198Z</updated>
+  <updated>2022-10-20T06:52:15.529Z</updated>
   <id>https://wanghongyuu-github-io.vercel.app/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>前端技术</title>
-    <link href="https://wanghongyuu-github-io.vercel.app/posts/6b185cce.html"/>
-    <id>https://wanghongyuu-github-io.vercel.app/posts/6b185cce.html</id>
-    <published>2022-10-19T06:30:37.000Z</published>
-    <updated>2022-10-20T06:52:20.198Z</updated>
-    
-    <content type="html"><![CDATA[<p>关于前端  我想说的是 机械性工作偏高 </p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;关于前端  我想说的是 机械性工作偏高 &lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="技术" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
   
   <entry>
     <title>后端技术</title>
@@ -52,6 +29,29 @@
       
       
     <summary type="html">&lt;p&gt;这边写一写关于后端技术的东西&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="技术" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端技术</title>
+    <link href="https://wanghongyuu-github-io.vercel.app/posts/6b185cce.html"/>
+    <id>https://wanghongyuu-github-io.vercel.app/posts/6b185cce.html</id>
+    <published>2022-10-19T06:30:37.000Z</published>
+    <updated>2022-10-20T06:52:20.198Z</updated>
+    
+    <content type="html"><![CDATA[<p>关于前端  我想说的是 机械性工作偏高 </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;关于前端  我想说的是 机械性工作偏高 &lt;/p&gt;
 </summary>
       
     
