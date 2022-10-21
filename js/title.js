@@ -8,7 +8,7 @@ document.addEventListener("visibilitychange", function () {
     clearTimeout(titleTime);
   } else {
     //返回当前页面时标签显示内容
-    document.title = "与你,一同行至天光.";
+    document.title = "与你,一同行至天光";
     //两秒后变回正常标题
     titleTime = setTimeout(function () {
       document.title = OriginTitile;
