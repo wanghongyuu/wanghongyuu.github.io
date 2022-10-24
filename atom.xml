@@ -6,7 +6,7 @@
   <link href="https://wanghongyuu-github-io.vercel.app/atom.xml" rel="self"/>
   
   <link href="https://wanghongyuu-github-io.vercel.app/"/>
-  <updated>2022-10-20T06:52:15.529Z</updated>
+  <updated>2022-10-24T00:59:58.205Z</updated>
   <id>https://wanghongyuu-github-io.vercel.app/</id>
   
   <author>
@@ -17,57 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>后端技术</title>
-    <link href="https://wanghongyuu-github-io.vercel.app/posts/5938ac41.html"/>
-    <id>https://wanghongyuu-github-io.vercel.app/posts/5938ac41.html</id>
-    <published>2022-10-19T06:30:37.000Z</published>
-    <updated>2022-10-20T06:52:15.529Z</updated>
-    
-    <content type="html"><![CDATA[<p>这边写一写关于后端技术的东西</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;这边写一写关于后端技术的东西&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="技术" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于github提交后贡献图不变的问题</title>
-    <link href="https://wanghongyuu-github-io.vercel.app/posts/6e952047.html"/>
-    <id>https://wanghongyuu-github-io.vercel.app/posts/6e952047.html</id>
-    <published>2022-10-19T06:30:37.000Z</published>
-    <updated>2022-10-20T06:52:05.008Z</updated>
-    
-    <content type="html"><![CDATA[<p>正在处理中</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;正在处理中&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="报错" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%A5%E9%94%99/"/>
-    
-  </entry>
-  
-  <entry>
     <title>前端技术</title>
     <link href="https://wanghongyuu-github-io.vercel.app/posts/6b185cce.html"/>
     <id>https://wanghongyuu-github-io.vercel.app/posts/6b185cce.html</id>
     <published>2022-10-19T06:30:37.000Z</published>
-    <updated>2022-10-20T06:52:20.198Z</updated>
+    <updated>2022-10-24T00:59:58.205Z</updated>
     
     <content type="html"><![CDATA[<p>关于前端  我想说的是 机械性工作偏高 </p>]]></content>
     
@@ -86,11 +40,57 @@
   </entry>
   
   <entry>
+    <title>关于github提交后贡献图不变的问题</title>
+    <link href="https://wanghongyuu-github-io.vercel.app/posts/6e952047.html"/>
+    <id>https://wanghongyuu-github-io.vercel.app/posts/6e952047.html</id>
+    <published>2022-10-19T06:30:37.000Z</published>
+    <updated>2022-10-24T00:59:30.735Z</updated>
+    
+    <content type="html"><![CDATA[<p>正在处理中</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;正在处理中&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="报错" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%A5%E9%94%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>后端技术</title>
+    <link href="https://wanghongyuu-github-io.vercel.app/posts/5938ac41.html"/>
+    <id>https://wanghongyuu-github-io.vercel.app/posts/5938ac41.html</id>
+    <published>2022-10-19T06:30:37.000Z</published>
+    <updated>2022-10-24T00:59:44.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>这边写一写关于后端技术的东西</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这边写一写关于后端技术的东西&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="技术" scheme="https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>悟已往之不谏，知来者之可追</title>
     <link href="https://wanghongyuu-github-io.vercel.app/posts/0.html"/>
     <id>https://wanghongyuu-github-io.vercel.app/posts/0.html</id>
     <published>2022-10-18T01:42:15.095Z</published>
-    <updated>2022-10-20T06:51:55.520Z</updated>
+    <updated>2022-10-24T01:00:11.036Z</updated>
     
     <content type="html"><![CDATA[<h1 id="秋分"><a href="#秋分" class="headerlink" title="秋分"></a>秋分</h1><blockquote><p>秋天里的落叶 挥手同树告别<br>关于你的一切 我都想要了解</p></blockquote><div class="tip "><p>ccc</p></div>]]></content>
     
