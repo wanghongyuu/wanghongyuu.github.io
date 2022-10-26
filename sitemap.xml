@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wanghongyuu-github-io.vercel.app/posts/741b372c.html</loc>
+    <loc>https://wanghongyuu-github-io.vercel.app/posts/30353d10.html</loc>
     
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://wanghongyuu-github-io.vercel.app/posts/3f1121d3.html</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wanghongyuu-github-io.vercel.app/posts/741b372c.html</loc>
     
     <lastmod>2022-10-24</lastmod>
     
@@ -103,7 +112,7 @@
 
   <url>
     <loc>https://wanghongyuu-github-io.vercel.app/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,28 +120,35 @@
   
   <url>
     <loc>https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wanghongyuu-github-io.vercel.app/tags/%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wanghongyuu-github-io.vercel.app/tags/hexo/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%A5%E9%94%99/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wanghongyuu-github-io.vercel.app/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
