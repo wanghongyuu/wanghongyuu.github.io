@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wanghongyuu-github-io.vercel.app/posts/ce06c257.html</loc>
+    
+    <lastmod>2022-11-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wanghongyuu-github-io.vercel.app/posts/38be0ba8.html</loc>
+    
+    <lastmod>2022-10-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wanghongyuu-github-io.vercel.app/posts/0.html</loc>
     
     <lastmod>2022-10-31</lastmod>
@@ -130,43 +148,50 @@
 
   <url>
     <loc>https://wanghongyuu-github-io.vercel.app/</loc>
-    <lastmod>2022-10-31</lastmod>
+    <lastmod>2022-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://wanghongyuu-github-io.vercel.app/tags/hexo/</loc>
-    <lastmod>2022-10-31</lastmod>
+    <loc>https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2022-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-10-31</lastmod>
+    <loc>https://wanghongyuu-github-io.vercel.app/tags/%E5%89%8D%E7%AB%AF%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2022-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wanghongyuu-github-io.vercel.app/tags/hexo/</loc>
+    <lastmod>2022-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wanghongyuu-github-io.vercel.app/tags/%E6%8A%A5%E9%94%99/</loc>
-    <lastmod>2022-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wanghongyuu-github-io.vercel.app/tags/%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2022-10-31</lastmod>
+    <lastmod>2022-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wanghongyuu-github-io.vercel.app/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-10-31</lastmod>
+    <lastmod>2022-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wanghongyuu-github-io.vercel.app/tags/%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2022-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
